@@ -1,7 +1,7 @@
 # vue-test
 Vue.js CSS injecting test
 
-See _app/index.html_, _app/scripts/main.js_ for implementation
+See [_app/index.html_](https://github.com/daqSam/vue-test/blob/master/app/index.html), [_app/scripts/main.js_](https://github.com/daqSam/vue-test/blob/master/app/scripts/main.js) for implementation
 
 ---
 
