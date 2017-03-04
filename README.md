@@ -9,7 +9,7 @@ This is the Vue template:
 
 ```html
 <script type="text/x-template" id="screen">
-	<div class="jumbotron" :class="{ invert: background != null }" :style="{ 'background-image': 'url(' + background + ')' }">
+	<div class="jumbotron" :style="{ 'background-image': 'url(' + background + ')' }">
 		<slot name="title"></slot>
 		<slot name="content"></slot>
 	</div>
